@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sushaivashov@yandex.ru**
 
-- ⚡ Fun fact **Currently noob, but with strong will**
+- ⚡ Fun fact **Strong-Willed noob**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
