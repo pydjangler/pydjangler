@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alexey</h1>
+<h1 align="center">Привет 👋, меня зовут Алексей</h1>
 <h3 align="center">Pre - junior .NET developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pydjangler" alt="pydjangler" /></a> </p>
