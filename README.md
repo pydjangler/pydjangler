@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, меня зовут Алексей</h1>
-<h3 align="center">C/C++ enjoyer</h3>
+<h3 align="center">Web developer</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/pydjangler?tab=repositories](https://github.com/pydjangler?tab=repositories)
 
