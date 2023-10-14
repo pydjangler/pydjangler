@@ -1,5 +1,9 @@
-<h1 align="center">Привет 👋</h1>
-<h3 align="center">C++ enjoyer</h3>
+<h1 align="center">Welcome 👋</h1>
+<h3 align="center">C++ and Machine Learning enjoyer</h3>
+
+- 🎓 Beginner at Machine Learning  
+
+- 💻 Computer Science student 
 
 - 👨‍💻 All of my projects are available at [https://github.com/pydjangler?tab=repositories](https://github.com/pydjangler?tab=repositories)
 
