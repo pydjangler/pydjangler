@@ -5,6 +5,8 @@
 
 - 💻 Computer Science student 
 
+- 👀 Interested in any part of programming, but especially in Computer Vision
+
 - 👨‍💻 All of my projects are available at [https://github.com/pydjangler?tab=repositories](https://github.com/pydjangler?tab=repositories)
 
 - 📫 How to reach me **sushaivashov@yandex.ru**
