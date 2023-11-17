@@ -1,11 +1,11 @@
 <h1 align="center">Welcome 👋</h1>
 <h3 align="center">C++ and Machine Learning enjoyer</h3>
 
-- 🎓 Beginner at Machine Learning  
+- 🎓 Machine Learning researcher (weak junior)
 
 - 💻 Computer Science student 
 
-- 👀 Interested in any part of programming, but especially in Computer Vision
+- 👀 Interested in any part of programming (excluding embedded), but especially in ML
 
 - 👨‍💻 All of my projects are available at [https://github.com/pydjangler?tab=repositories](https://github.com/pydjangler?tab=repositories)
 
