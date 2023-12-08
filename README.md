@@ -1,5 +1,5 @@
 <h1 align="center">Welcome 👋</h1>
-<h3 align="center">C++ and Machine Learning enjoyer</h3>
+<h3 align="center">Go and Machine Learning enjoyer</h3>
 
 - 🎓 Machine Learning researcher (weak junior)
 
