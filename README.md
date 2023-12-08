@@ -1,11 +1,11 @@
 <h1 align="center">Welcome 👋</h1>
-<h3 align="center">Go and Machine Learning enjoyer</h3>
+<h3 align="center">Go and Java enjoyer</h3>
 
-- 🎓 Machine Learning researcher (weak junior)
+- 🎓 Java developer 
 
 - 💻 Computer Science student 
 
-- 👀 Interested in any part of programming (excluding embedded), but especially in ML
+- 👀 Interested in any part of programming (excluding embedded)
 
 - 👨‍💻 All of my projects are available at [https://github.com/pydjangler?tab=repositories](https://github.com/pydjangler?tab=repositories)
 
