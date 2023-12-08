@@ -1,9 +1,9 @@
 <h1 align="center">Welcome 👋</h1>
-<h3 align="center">Go and Java enjoyer</h3>
+<h3 align="center">Java enjoyer</h3>
 
-- 🎓 Java developer 
+- 🎓 Computer Science student
 
-- 💻 Computer Science student 
+- 💻 Java developer 
 
 - 👀 Interested in any part of programming (excluding embedded)
 
