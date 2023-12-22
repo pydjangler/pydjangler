@@ -1,9 +1,9 @@
 <h1 align="center">Welcome 👋</h1>
-<h3 align="center">Java enjoyer</h3>
+<h3 align="center">C++ enjoyer</h3>
 
 - 🎓 Computer Science student
 
-- 💻 Java developer 
+- 💻 C++ researcher in ML and CS sphere 
 
 - 👀 Interested in any part of programming (excluding embedded)
 
