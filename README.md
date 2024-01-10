@@ -3,7 +3,7 @@
 
 - 🎓 Computer Science student
 
-- 💻 C++ researcher in ML and CS sphere 
+- 💻 C++ SWE
 
 - 👀 Interested in any part of programming (excluding embedded)
 
