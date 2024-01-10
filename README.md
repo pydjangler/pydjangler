@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sushaivashov@yandex.ru**
 
-- ⚡ **Strong-Willed noob**
+- ⚡ **Strong-Willed**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
