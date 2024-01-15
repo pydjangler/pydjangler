@@ -29,7 +29,7 @@ I'm currently trying to join Yandex Internship
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
+![MySQL](https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### &nbsp; &nbsp; &nbsp; 🕓 &nbsp;Version Control
 
@@ -51,10 +51,7 @@ I'm currently trying to join Yandex Internship
 
 ## 📊 &nbsp;Stats
 
-![pydjangler's Github Stats](https://github-readme-stats.vercel.app/api?username=pydjanglerI&hide=issues,prs&show_icons=true&theme=radical)
-
-[![pydjangler's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pydjangler&layout=compact&langs_count=10&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 &nbsp;Links
 
