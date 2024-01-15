@@ -1,6 +1,6 @@
 # 👋 &nbsp;Hi there
 
-I'm **Alexey Ivashov**
+**Alexey Ivashov**
 
 - 👨🏻‍💼 Computer Science student
 - 🎓 ITMO University (Information Technologies & Programming)
