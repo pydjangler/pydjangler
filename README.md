@@ -28,8 +28,8 @@ I'm currently trying to join Yandex Internship (C++ Back-end)
 ### &nbsp; &nbsp; &nbsp; 💾 &nbsp;Databases
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![Postgres](https://img.shields.io/badge/postgres-000000.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-000000.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%23316192.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### &nbsp; &nbsp; &nbsp; 🕓 &nbsp;Version Control
 
