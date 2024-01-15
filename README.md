@@ -1,26 +1,63 @@
-<h1 align="center">Welcome 👋</h1>
-<h3 align="center">C++ enjoyer</h3>
+# 👋 &nbsp;Hi there
 
-- 🎓 Computer Science student
+I'm **Alexey Ivashov**
 
-- 💻 C++ Software Engineer
+- 👨🏻‍💼 Computer Science student
+- 🎓 ITMO University (Information Technologies & Programming)
+- 💻 C++ software engineer
+- ⚙️ Interested in BackEnd
 
-- 👀 Searching for job in BigTech  
+&nbsp;
 
-- 📫 How to reach me [**sushaivashov@yandex.ru**] or (https://t.me/gh0stfacekiller)
+## 👇 &nbsp;Current work
 
-- ⚡ **CAUTION! Strong-Willed**
+I'm currently trying to join Yandex Internship
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codeforces.com/profile/adept_prof" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/adept_prof" height="30" width="40" /></a>
-<a href="https://leetcode.com/alekseiivashov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/alekseiivashov/" height="30" width="40" /></a>
-</p>
+&nbsp;
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.java.oracle.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/docker/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/git/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg" alt="sql" width="40" height="40"/> </a> 
+## 🧰 &nbsp;My toolbox
+
+
+### &nbsp; &nbsp; &nbsp; 📋 &nbsp;Languages
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### &nbsp; &nbsp; &nbsp; 💾 &nbsp;Databases
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+
+### &nbsp; &nbsp; &nbsp; 🕓 &nbsp;Version Control
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+### &nbsp; &nbsp; &nbsp; 💻 &nbsp;IDEs/Editors and Instruments
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![CLion](https://img.shields.io/badge/Clion-000000.svg?style=for-the-badge&logo=clion&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+&nbsp;
+
+## 📊 &nbsp;Stats
+
+![pydjangler's Github Stats](https://github-readme-stats.vercel.app/api?username=pydjanglerI&hide=issues,prs&show_icons=true&theme=radical)
+
+[![pydjangler's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pydjangler&layout=compact&langs_count=10&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## 🔗 &nbsp;Links
+
+[<img align="left" alt="I_SER_I | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
+
+[telegram]: https://t.me/gh0stfacekiller
