@@ -5,7 +5,7 @@
 - 👨🏻‍💼 Computer Science student
 - 🎓 ITMO University (Information Technologies & Programming)
 - 💻 C++ software engineer
-- ⚙️ Interested in BackEnd
+- ❓️ Interested in BackEnd
 
 &nbsp;
 
@@ -18,11 +18,11 @@ I'm currently trying to join Yandex Internship (C++ Back-end)
 ## 🧰 &nbsp;My toolbox
 
 
-### &nbsp; &nbsp; &nbsp; 📋 &nbsp;Languages
+### &nbsp; &nbsp; &nbsp; 💻 &nbsp;Languages
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/c++-480607.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### &nbsp; &nbsp; &nbsp; 💾 &nbsp;Databases
@@ -36,7 +36,7 @@ I'm currently trying to join Yandex Internship (C++ Back-end)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### &nbsp; &nbsp; &nbsp; 💻 &nbsp;IDEs/Editors and Instruments
+### &nbsp; &nbsp; &nbsp; ⚙️ &nbsp;IDEs/Editors and Instruments
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
