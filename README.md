@@ -11,7 +11,7 @@ I'm **Alexey Ivashov**
 
 ## 👇 &nbsp;Current work
 
-I'm currently trying to join Yandex Internship
+I'm currently trying to join Yandex Internship (C++ Back-end)
 
 &nbsp;
 
