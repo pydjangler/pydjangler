@@ -47,9 +47,9 @@ I'm currently trying to join Yandex Internship
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-## 📊 &nbsp;Stats
+## 📊 &nbsp;Statistics
 
-[![Pydjangler's GitHub stats](https://github-readme-stats.vercel.app/api?username=pydjangler)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pydjangler&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 &nbsp;Links
 
