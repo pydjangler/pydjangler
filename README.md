@@ -3,7 +3,7 @@
 **Alexey Ivashov**
 
 - 👨🏻‍💼 Computer Science student
-- 🎓 ITMO University (Information Technologies & Programming)
+- 🎓 ITMO University (Faculty of Information Technologies & Programming)
 - 💻 Engineer
 - ❓️ Interested in Machine Learning
 
