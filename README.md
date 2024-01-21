@@ -5,7 +5,7 @@
 - 👨🏻‍💼 Computer Science student
 - 🎓 ITMO University (Faculty of Information Technologies & Programming)
 - 💻 Engineer
-- ❓️ Interested in Machine Learning
+-  ❓️ Interested in Machine Learning
 
 &nbsp;
 
