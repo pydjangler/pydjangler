@@ -47,6 +47,14 @@ I'm currently trying to join Yandex Internship
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+## 📊 &nbsp;Stats
+
+![pydjangler's Github Stats](https://github-readme-stats.vercel.app/api?username=pydjangler&hide=issues,prs&show_icons=true&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pydjangler&theme=radical)](https://git.io/streak-stats)
+
+[![pydjangler's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pydjangler&layout=compact&langs_count=10&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🔗 &nbsp;Links
 
 [<img align="left" alt="I_SER_I | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
