@@ -49,11 +49,7 @@ I'm currently trying to join Yandex Internship
 
 ## 📊 &nbsp;Stats
 
-![pydjangler's Github Stats](https://github-readme-stats.vercel.app/api?username=pydjangler&hide=issues,prs&show_icons=true&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=pydjangler&theme=radical)](https://git.io/streak-stats)
-
-[![pydjangler's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pydjangler&layout=compact&langs_count=10&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Pydjangler's GitHub stats](https://github-readme-stats.vercel.app/api?username=pydjangler)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔗 &nbsp;Links
 
