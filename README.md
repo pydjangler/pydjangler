@@ -4,14 +4,14 @@
 
 - 👨🏻‍💼 Computer Science student
 - 🎓 ITMO University (Information Technologies & Programming)
-- 💻 C++ software engineer
-- ❓️ Interested in Back-End
+- 💻 Engineer
+- ❓️ Interested in Machine Learning
 
 &nbsp;
 
 ## 👇 &nbsp;Current work
 
-I'm currently trying to join Yandex Internship (C++ Back-end)
+I'm currently trying to join Yandex Internship
 
 &nbsp;
 
