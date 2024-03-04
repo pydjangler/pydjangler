@@ -4,14 +4,14 @@
 
 - 👨🏻‍💼 Computer Science student
 - 🎓 ITMO University (Faculty of Information Technologies & Programming)
-- 💻 C++ developer
+- 💻 C++ enjoyer
 -  ❓️Interested in Back-End
 
 &nbsp;
 
 ## 👇 &nbsp;Current work
 
-I'm currently trying to join Yandex Internship
+I'm currently trying to join Yandex Internship -> Failed on final stage :(
 
 &nbsp;
 
