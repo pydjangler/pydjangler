@@ -11,7 +11,7 @@
 
 ## 👇 &nbsp;Current work
 
-I'm currently trying to join Yandex Internship -> Failed on final stage :(
+Coming soon...
 
 &nbsp;
 
