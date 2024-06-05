@@ -22,7 +22,6 @@ Coming soon...
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![C++](https://img.shields.io/badge/c++-480607.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Rust[(https://logodix.com/logo/700854.png)
 
 ### &nbsp; &nbsp; &nbsp; 💾 &nbsp;Databases
 
