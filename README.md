@@ -22,9 +22,6 @@ Coming soon...
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![C++](https://img.shields.io/badge/c++-480607.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linux.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/linux.svg"><img src="assets/icons/linux.svg" alt="Linux" title="Linux" height="32"></picture>
-<a href="https://github.com/mrsobakin?tab=repositories&q=&type=&language=rust"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/rust.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/rust_light.svg"><img src="assets/icons/rust.svg" alt="Rust" title="Rust
-💖🦀
 
 ### &nbsp; &nbsp; &nbsp; 💾 &nbsp;Databases
 
@@ -42,7 +39,6 @@ Coming soon...
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![CLion](https://img.shields.io/badge/Clion-000000.svg?style=for-the-badge&logo=clion&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
