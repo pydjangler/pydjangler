@@ -22,8 +22,9 @@ Coming soon...
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![C++](https://img.shields.io/badge/c++-480607.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-000000.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/linux.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/linux.svg"><img src="assets/icons/linux.svg" alt="Linux" title="Linux" height="32"></picture>
+<a href="https://github.com/mrsobakin?tab=repositories&q=&type=&language=rust"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/rust.svg"><source media="(prefers-color-scheme: light)" srcset="assets/icons/rust_light.svg"><img src="assets/icons/rust.svg" alt="Rust" title="Rust
+💖🦀
 
 ### &nbsp; &nbsp; &nbsp; 💾 &nbsp;Databases
 
