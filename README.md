@@ -5,7 +5,6 @@
 - 👨🏻‍💼 Computer Science student
 - 🎓 ITMO University (Faculty of Information Technologies & Programming)
 - 💻 C++ enjoyer
--  ❓️Interested in Back-End
 
 &nbsp;
 
