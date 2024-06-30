@@ -4,7 +4,7 @@
 
 - 👨🏻‍💼 Computer Science student
 - 🎓 ITMO University (Faculty of Information Technologies & Programming)
-- 💻 C++ enjoyer
+- 💻 C++ intern
 - 🏆 Codeforces Expert rank
 
 &nbsp;
