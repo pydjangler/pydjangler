@@ -8,12 +8,6 @@
 
 &nbsp;
 
-## 👇 &nbsp;Current work
-
-Coming soon...
-
-&nbsp;
-
 ## 🧰 &nbsp;My toolbox
 
 
