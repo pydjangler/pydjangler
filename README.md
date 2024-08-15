@@ -15,7 +15,7 @@
 
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c++/python-original.svg" title="C++" alt="C++" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain.svg" title="Fastapi" alt="Fastapi" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/aiogram/aiogram/dev-2.x/docs/source/static/logo.png" title="Aiogram" alt="Aiogram" width="45" height="45"/>&nbsp;
 </div>
