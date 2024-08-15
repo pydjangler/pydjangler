@@ -41,6 +41,6 @@
 
 ## 🔗 &nbsp;Links
 
-[<img align="left" alt="I_SER_I | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
+[<img align="left" alt="pydjangler | Telegram" width="60px" src="https://img.icons8.com/fluency/48/000000/telegram-app.png" />][telegram]
 
 [telegram]: https://t.me/gh0stfacekiller
