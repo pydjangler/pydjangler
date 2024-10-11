@@ -30,6 +30,7 @@
 ### &nbsp; &nbsp; &nbsp; 🕓 &nbsp;Version Control and Instruments
 
 <div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="45" height="45"/>&nbsp;
