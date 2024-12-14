@@ -14,19 +14,16 @@
 ### &nbsp; &nbsp; &nbsp; 💻 &nbsp;Languages
 
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="C#" alt="Rust" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-plain.svg" title="Fastapi" alt="Fastapi" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/aiogram/aiogram/dev-2.x/docs/source/static/logo.png" title="Aiogram" alt="Aiogram" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="45" height="45"/>&nbsp;
 </div>
 
 ### &nbsp; &nbsp; &nbsp; 💾 &nbsp;Databases
 
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Postgresql" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SqlAlchemy" alt="SqlAlchemy" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mssql/mssql-plain.svg" title="MicrosoftSQL" alt="MicrosoftSQL" width="45" height="45"/>&nbsp;
 </div>
 
 ### &nbsp; &nbsp; &nbsp; 🕓 &nbsp;Instruments
@@ -38,7 +35,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-plain.svg" title="Jenkins" alt="Jenkins" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-plain.svg" title="Ansible" alt="Ansible" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-plain.svg" title="Terraform" alt="Terraform" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-original.svg" title="Pytest" alt="Pytest" width="45" height="45"/>&nbsp;
 </div>
 
 ## 📊 &nbsp;Statistics
