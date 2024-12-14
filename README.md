@@ -23,7 +23,7 @@
 
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Postgresql" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mssql/mssql-plain.svg" title="MicrosoftSQL" alt="MicrosoftSQL" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MicrosoftSQL" alt="MicrosoftSQL" width="45" height="45"/>&nbsp;
 </div>
 
 ### &nbsp; &nbsp; &nbsp; 🕓 &nbsp;Instruments
