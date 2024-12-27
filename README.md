@@ -15,13 +15,18 @@
 
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="45" height="45"/>&nbsp;
+</div>
+
+### &nbsp; &nbsp; &nbsp; 💻 &nbsp;Frameworks and Libraries
+
+<div id="header" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="45" height="45"/>&nbsp;
 </div>
 
 ### &nbsp; &nbsp; &nbsp; 💾 &nbsp;Databases
