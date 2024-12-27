@@ -20,7 +20,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="45" height="45"/>&nbsp;
 </div>
 
-### &nbsp; &nbsp; &nbsp; 💻 &nbsp;Frameworks and Libraries
+### &nbsp; &nbsp; &nbsp; 📕 &nbsp;Frameworks and Libraries
 
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="45" height="45"/>&nbsp;
