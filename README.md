@@ -14,6 +14,7 @@
 ### &nbsp; &nbsp; &nbsp; 💻 &nbsp;Languages
 
 <div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python.svg" title="C#" alt="Python" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET" alt=".NET" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="45" height="45"/>&nbsp;
