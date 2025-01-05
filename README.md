@@ -5,6 +5,7 @@
 - 👨🏻‍💼 Computer Science student
 - 🎓 ITMO University (Faculty of Information Technologies & Programming)
 - 🏆 Codeforces Expert rank
+- 👨‍💻 .NET & Java enjoyer
 
 &nbsp;
 
