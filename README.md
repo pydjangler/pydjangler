@@ -5,7 +5,7 @@
 - 👨🏻‍💼 Computer Science student
 - 🎓 ITMO University (Faculty of Information Technologies & Programming)
 - 🏆 Codeforces Expert rank
-- 🤓 Spectral Tech HFT
+- 🤓 Spectral Tech HFT student
 - 👨‍💻 Java & .NET enjoyer (I love them definitely most of all)
 
 &nbsp;
