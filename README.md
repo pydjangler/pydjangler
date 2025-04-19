@@ -2,10 +2,10 @@
 
 **Alexey Ivashov**
 
-- 👨🏻‍💼 Computer Science student
+- 👨🏻‍💼 Computer Science
 - 🎓 ITMO University (Faculty of Information Technologies & Programming)
 - 🏆 Codeforces Expert rank
-- 🤓 Spectral Tech HFT student
+- 🤓 Spectral Tech HFT graduate
 - 👨‍💻 Java & .NET enjoyer (I love them definitely most of all)
 
 &nbsp;
