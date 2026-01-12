@@ -58,11 +58,6 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pydjangler&show_icons=true&theme=nord&layout=donut&langs_count=239&hide=jupyter%20notebook,TeX" alt="Top Langs" />
-      </a>
-    </td>
-    <td>
       <p><img align="center" src="https://leetcard.jacoblin.cool/alekseiivashov?theme=nord" alt="Leetcode Stats" style="border: 10px solid white; border-radius: 50px;" /></p>
     </td>
   </tr>
