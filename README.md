@@ -49,6 +49,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" title="Docker" alt="Docker" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-plain.svg" title="Jenkins" alt="Jenkins" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab CI" alt="Gitlab CI" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-plain.svg" title="Ansible" alt="Ansible" width="45" height="45"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-plain.svg" title="Terraform" alt="Terraform" width="45" height="45"/>&nbsp;
 </div>
